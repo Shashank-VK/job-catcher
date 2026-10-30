@@ -1,0 +1,5 @@
+# Runtime dependencies: Python 3.12 standard library only (urllib, json, etc.).
+# No third-party packages required for production runtime.
+#
+# Dev / Test dependencies:
+# pytest>=8.0.0
